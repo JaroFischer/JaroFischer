@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @JaroFischer
+- 👀 I’m interested in learning programming
+- 🌱 I’m currently studying in school and want to start programming
+- 💞️ I’m looking to collaborate on learning programming
+- 📫 How to reach me jaroslawfischer89@gmail.com
